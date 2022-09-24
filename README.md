@@ -30,8 +30,8 @@ Password : 1234
 ```
 
 # password phpmyadmin-5.2.0-all.zip
-```python
-link : 
+```php
+link : https://carapedi.id/tYsFWWL2gl
 ```
 
 - By Xenzi Gan'z
