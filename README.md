@@ -26,9 +26,10 @@ php -S localhost:8080
 # username and password
 ```python
 Username : root
-Password : 1234
+Password : create password
 ```
 
+![img]()
 # password phpmyadmin-5.2.0-all.zip
 ```php
 link : https://carapedi.id/tYsFWWL2gl
