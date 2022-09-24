@@ -29,7 +29,7 @@ Username : root
 Password : create password
 ```
 
-![img]()
+![img](https://github.com/Xenzi-XN1/phpmyadmin/blob/main/IMG_20220925_000155.jpg)
 # password phpmyadmin-5.2.0-all.zip
 ```php
 link : https://carapedi.id/tYsFWWL2gl
